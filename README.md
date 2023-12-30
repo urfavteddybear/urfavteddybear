@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/xynnea"><img src="https://api.daily.dev/devcards/6564aded39704bb681e51f8b853ae3db.png?r=kn3" width="400" alt="Xynnea's Dev Card"/></a>
+<a href="https://app.daily.dev/xynnea"><img src="https://api.daily.dev/devcards/6564aded39704bb681e51f8b853ae3db.png?r=kn3" width="200" alt="Xynnea's Dev Card"/></a>
 <!-- ### Hi there 👋 -->
 
 <!--
