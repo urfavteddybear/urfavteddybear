@@ -5,8 +5,4 @@
 
 - 👯 Currently interested in **DevOps**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=urfavteddybear&show_icons=true&bg_color=000000&hide_border=true&locale=en" alt="urfavteddybear" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=urfavteddybear&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7" alt="urfavteddybear" /></p>
